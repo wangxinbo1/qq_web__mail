@@ -1,0 +1,558 @@
+2019-12-15 23:00:13,269 - INFO - test_send_mail.py - test_send_mail - 25 - #############################################开始执行登录的用例##############################################
+2019-12-15 23:00:21,566 - INFO - base_page.py - base_page - 112 - 在 '登录页面_登录表单frame' 切换到 '('id', 'login_frame')' frame
+2019-12-15 23:00:21,566 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 
+2019-12-15 23:00:21,567 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 可见
+2019-12-15 23:00:21,603 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录表单frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:00:21,613 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录表单frame' 元素
+2019-12-15 23:00:21,640 - INFO - base_page.py - base_page - 116 - 切换 '登录页面_登录表单frame' frame成功
+2019-12-15 23:00:21,640 - INFO - base_page.py - base_page - 71 - 在 '登录页面_email输入框' 的 '('id', 'u')' 元素处输入 '1020487224@qq.com' 
+2019-12-15 23:00:21,641 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_email输入框' 元素值为 '('id', 'u')' 
+2019-12-15 23:00:21,641 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_email输入框' 元素值为 '('id', 'u')' 可见
+2019-12-15 23:00:21,677 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_email输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:00:21,687 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_email输入框' 元素
+2019-12-15 23:00:21,818 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:00:21,819 - INFO - base_page.py - base_page - 71 - 在 '登录页面_password输入框' 的 '('id', 'p')' 元素处输入 'wang13468610626' 
+2019-12-15 23:00:21,819 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_password输入框' 元素值为 '('id', 'p')' 
+2019-12-15 23:00:21,819 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_password输入框' 元素值为 '('id', 'p')' 可见
+2019-12-15 23:00:21,853 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_password输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:00:21,863 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_password输入框' 元素
+2019-12-15 23:00:21,956 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:00:21,957 - INFO - base_page.py - base_page - 91 - 在 '登录页面_登录按钮' 点击 ' ('id', 'login_button')' 元素
+2019-12-15 23:00:21,957 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 
+2019-12-15 23:00:21,957 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 可见
+2019-12-15 23:00:21,994 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录按钮' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:00:22,005 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录按钮' 元素
+2019-12-15 23:00:22,135 - INFO - base_page.py - base_page - 94 - 点击 '登录页面_登录按钮' 元素成功
+2019-12-15 23:00:22,201 - INFO - test_send_mail.py - test_send_mail - 33 - #############################################结束执行登录的用例##############################################
+2019-12-15 23:03:37,864 - INFO - test_send_mail.py - test_send_mail - 26 - #############################################开始执行登录的用例##############################################
+2019-12-15 23:03:46,364 - INFO - base_page.py - base_page - 112 - 在 '登录页面_登录表单frame' 切换到 '('id', 'login_frame')' frame
+2019-12-15 23:03:46,365 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 
+2019-12-15 23:03:46,365 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 可见
+2019-12-15 23:03:46,407 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录表单frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:03:46,417 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录表单frame' 元素
+2019-12-15 23:03:46,445 - INFO - base_page.py - base_page - 116 - 切换 '登录页面_登录表单frame' frame成功
+2019-12-15 23:03:46,445 - INFO - base_page.py - base_page - 71 - 在 '登录页面_email输入框' 的 '('id', 'u')' 元素处输入 '1020487224@qq.com' 
+2019-12-15 23:03:46,446 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_email输入框' 元素值为 '('id', 'u')' 
+2019-12-15 23:03:46,446 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_email输入框' 元素值为 '('id', 'u')' 可见
+2019-12-15 23:03:46,483 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_email输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:03:46,493 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_email输入框' 元素
+2019-12-15 23:03:46,622 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:03:46,623 - INFO - base_page.py - base_page - 71 - 在 '登录页面_password输入框' 的 '('id', 'p')' 元素处输入 'wang13468610626' 
+2019-12-15 23:03:46,623 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_password输入框' 元素值为 '('id', 'p')' 
+2019-12-15 23:03:46,623 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_password输入框' 元素值为 '('id', 'p')' 可见
+2019-12-15 23:03:46,661 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_password输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:03:46,672 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_password输入框' 元素
+2019-12-15 23:03:46,767 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:03:46,768 - INFO - base_page.py - base_page - 91 - 在 '登录页面_登录按钮' 点击 ' ('id', 'login_button')' 元素
+2019-12-15 23:03:46,768 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 
+2019-12-15 23:03:46,768 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 可见
+2019-12-15 23:03:46,815 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录按钮' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:03:46,827 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录按钮' 元素
+2019-12-15 23:03:46,959 - INFO - base_page.py - base_page - 94 - 点击 '登录页面_登录按钮' 元素成功
+2019-12-15 23:04:16,916 - INFO - test_send_mail.py - test_send_mail - 26 - #############################################开始执行登录的用例##############################################
+2019-12-15 23:04:38,909 - INFO - base_page.py - base_page - 112 - 在 '登录页面_登录表单frame' 切换到 '('id', 'login_frame')' frame
+2019-12-15 23:04:38,909 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 
+2019-12-15 23:04:38,909 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 可见
+2019-12-15 23:04:38,947 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录表单frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:04:38,956 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录表单frame' 元素
+2019-12-15 23:04:38,984 - INFO - base_page.py - base_page - 116 - 切换 '登录页面_登录表单frame' frame成功
+2019-12-15 23:04:38,984 - INFO - base_page.py - base_page - 71 - 在 '登录页面_email输入框' 的 '('id', 'u')' 元素处输入 '1020487224@qq.com' 
+2019-12-15 23:04:38,985 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_email输入框' 元素值为 '('id', 'u')' 
+2019-12-15 23:04:38,985 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_email输入框' 元素值为 '('id', 'u')' 可见
+2019-12-15 23:04:39,020 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_email输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:04:39,031 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_email输入框' 元素
+2019-12-15 23:04:39,144 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:04:39,144 - INFO - base_page.py - base_page - 71 - 在 '登录页面_password输入框' 的 '('id', 'p')' 元素处输入 'wang13468610626' 
+2019-12-15 23:04:39,145 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_password输入框' 元素值为 '('id', 'p')' 
+2019-12-15 23:04:39,145 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_password输入框' 元素值为 '('id', 'p')' 可见
+2019-12-15 23:04:39,180 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_password输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:04:39,191 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_password输入框' 元素
+2019-12-15 23:04:39,279 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:04:39,280 - INFO - base_page.py - base_page - 91 - 在 '登录页面_登录按钮' 点击 ' ('id', 'login_button')' 元素
+2019-12-15 23:04:39,280 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 
+2019-12-15 23:04:39,280 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 可见
+2019-12-15 23:04:39,317 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录按钮' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:04:39,326 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录按钮' 元素
+2019-12-15 23:04:39,454 - INFO - base_page.py - base_page - 94 - 点击 '登录页面_登录按钮' 元素成功
+2019-12-15 23:07:21,823 - INFO - test_send_mail.py - test_send_mail - 26 - #############################################开始执行登录的用例##############################################
+2019-12-15 23:07:30,021 - INFO - base_page.py - base_page - 112 - 在 '登录页面_登录表单frame' 切换到 '('id', 'login_frame')' frame
+2019-12-15 23:07:30,022 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 
+2019-12-15 23:07:30,022 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 可见
+2019-12-15 23:07:30,068 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录表单frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:07:30,078 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录表单frame' 元素
+2019-12-15 23:07:30,104 - INFO - base_page.py - base_page - 116 - 切换 '登录页面_登录表单frame' frame成功
+2019-12-15 23:07:30,105 - INFO - base_page.py - base_page - 71 - 在 '登录页面_email输入框' 的 '('id', 'u')' 元素处输入 '1020487224@qq.com' 
+2019-12-15 23:07:30,105 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_email输入框' 元素值为 '('id', 'u')' 
+2019-12-15 23:07:30,105 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_email输入框' 元素值为 '('id', 'u')' 可见
+2019-12-15 23:07:30,139 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_email输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:07:30,150 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_email输入框' 元素
+2019-12-15 23:07:30,259 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:07:30,259 - INFO - base_page.py - base_page - 71 - 在 '登录页面_password输入框' 的 '('id', 'p')' 元素处输入 'wang13468610626' 
+2019-12-15 23:07:30,259 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_password输入框' 元素值为 '('id', 'p')' 
+2019-12-15 23:07:30,259 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_password输入框' 元素值为 '('id', 'p')' 可见
+2019-12-15 23:07:30,293 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_password输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:07:30,305 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_password输入框' 元素
+2019-12-15 23:07:30,401 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:07:30,402 - INFO - base_page.py - base_page - 91 - 在 '登录页面_登录按钮' 点击 ' ('id', 'login_button')' 元素
+2019-12-15 23:07:30,402 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 
+2019-12-15 23:07:30,402 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 可见
+2019-12-15 23:07:30,437 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录按钮' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:07:30,455 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录按钮' 元素
+2019-12-15 23:07:30,586 - INFO - base_page.py - base_page - 94 - 点击 '登录页面_登录按钮' 元素成功
+2019-12-15 23:07:30,587 - INFO - base_page.py - base_page - 91 - 在 '首页_写邮件按钮' 点击 ' ('id', 'composebtn')' 元素
+2019-12-15 23:07:30,587 - INFO - base_page.py - base_page - 60 - 查找 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 
+2019-12-15 23:07:30,587 - INFO - base_page.py - base_page - 32 - 等待 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 可见
+2019-12-15 23:08:02,938 - INFO - base_page.py - base_page - 42 - 等待 '首页_写邮件按钮' 元素出现成功，等待时间为 08:00:32s
+2019-12-15 23:08:02,977 - INFO - base_page.py - base_page - 64 - 找到 '首页_写邮件按钮' 元素
+2019-12-15 23:08:08,043 - INFO - base_page.py - base_page - 94 - 点击 '首页_写邮件按钮' 元素成功
+2019-12-15 23:08:08,043 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_正文frame' 切换到 '('xpath', "//body[@accesskey='q']/div")' frame
+2019-12-15 23:08:08,043 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文frame' 元素值为 '('xpath', "//body[@accesskey='q']/div")' 
+2019-12-15 23:08:08,044 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文frame' 元素值为 '('xpath', "//body[@accesskey='q']/div")' 可见
+2019-12-15 23:08:38,495 - ERROR - base_page.py - base_page - 37 - 查找 '写邮件页面_正文frame' 元素出现失败
+2019-12-15 23:08:40,813 - INFO - test_send_mail.py - test_send_mail - 35 - #############################################结束执行登录的用例##############################################
+2019-12-15 23:13:16,101 - INFO - test_send_mail.py - test_send_mail - 26 - #############################################开始执行登录的用例##############################################
+2019-12-15 23:13:25,252 - INFO - base_page.py - base_page - 112 - 在 '登录页面_登录表单frame' 切换到 '('id', 'login_frame')' frame
+2019-12-15 23:13:25,253 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 
+2019-12-15 23:13:25,253 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 可见
+2019-12-15 23:13:25,289 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录表单frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:13:25,299 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录表单frame' 元素
+2019-12-15 23:13:25,328 - INFO - base_page.py - base_page - 116 - 切换 '登录页面_登录表单frame' frame成功
+2019-12-15 23:13:25,329 - INFO - base_page.py - base_page - 71 - 在 '登录页面_email输入框' 的 '('id', 'u')' 元素处输入 '1020487224@qq.com' 
+2019-12-15 23:13:25,329 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_email输入框' 元素值为 '('id', 'u')' 
+2019-12-15 23:13:25,329 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_email输入框' 元素值为 '('id', 'u')' 可见
+2019-12-15 23:13:25,363 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_email输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:13:25,372 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_email输入框' 元素
+2019-12-15 23:13:25,483 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:13:25,484 - INFO - base_page.py - base_page - 71 - 在 '登录页面_password输入框' 的 '('id', 'p')' 元素处输入 'wang13468610626' 
+2019-12-15 23:13:25,484 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_password输入框' 元素值为 '('id', 'p')' 
+2019-12-15 23:13:25,484 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_password输入框' 元素值为 '('id', 'p')' 可见
+2019-12-15 23:13:25,530 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_password输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:13:25,539 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_password输入框' 元素
+2019-12-15 23:13:25,635 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:13:25,635 - INFO - base_page.py - base_page - 91 - 在 '登录页面_登录按钮' 点击 ' ('id', 'login_button')' 元素
+2019-12-15 23:13:25,635 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 
+2019-12-15 23:13:25,636 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 可见
+2019-12-15 23:13:25,670 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录按钮' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:13:25,682 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录按钮' 元素
+2019-12-15 23:13:25,818 - INFO - base_page.py - base_page - 94 - 点击 '登录页面_登录按钮' 元素成功
+2019-12-15 23:13:25,818 - INFO - base_page.py - base_page - 91 - 在 '首页_写邮件按钮' 点击 ' ('id', 'composebtn')' 元素
+2019-12-15 23:13:25,819 - INFO - base_page.py - base_page - 60 - 查找 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 
+2019-12-15 23:13:25,819 - INFO - base_page.py - base_page - 32 - 等待 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 可见
+2019-12-15 23:13:28,140 - INFO - base_page.py - base_page - 42 - 等待 '首页_写邮件按钮' 元素出现成功，等待时间为 08:00:02s
+2019-12-15 23:13:28,151 - INFO - base_page.py - base_page - 64 - 找到 '首页_写邮件按钮' 元素
+2019-12-15 23:13:28,228 - INFO - base_page.py - base_page - 94 - 点击 '首页_写邮件按钮' 元素成功
+2019-12-15 23:13:28,229 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:13:28,229 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 
+2019-12-15 23:13:28,229 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 可见
+2019-12-15 23:13:28,278 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_主frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:13:28,292 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_主frame' 元素
+2019-12-15 23:13:28,320 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_主frame' frame成功
+2019-12-15 23:13:28,321 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_正文frame' 切换到 '('xpath', "//body[@accesskey='q']/div")' frame
+2019-12-15 23:13:28,321 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文frame' 元素值为 '('xpath', "//body[@accesskey='q']/div")' 
+2019-12-15 23:13:28,321 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文frame' 元素值为 '('xpath', "//body[@accesskey='q']/div")' 可见
+2019-12-15 23:13:58,417 - ERROR - base_page.py - base_page - 37 - 查找 '写邮件页面_正文frame' 元素出现失败
+2019-12-15 23:14:00,735 - INFO - test_send_mail.py - test_send_mail - 36 - #############################################结束执行登录的用例##############################################
+2019-12-15 23:18:56,510 - INFO - test_send_mail.py - test_send_mail - 26 - #############################################开始执行登录的用例##############################################
+2019-12-15 23:19:06,697 - INFO - base_page.py - base_page - 112 - 在 '登录页面_登录表单frame' 切换到 '('id', 'login_frame')' frame
+2019-12-15 23:19:06,697 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 
+2019-12-15 23:19:06,697 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 可见
+2019-12-15 23:19:06,734 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录表单frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:19:06,744 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录表单frame' 元素
+2019-12-15 23:19:06,771 - INFO - base_page.py - base_page - 116 - 切换 '登录页面_登录表单frame' frame成功
+2019-12-15 23:19:06,771 - INFO - base_page.py - base_page - 71 - 在 '登录页面_email输入框' 的 '('id', 'u')' 元素处输入 '1020487224@qq.com' 
+2019-12-15 23:19:06,772 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_email输入框' 元素值为 '('id', 'u')' 
+2019-12-15 23:19:06,772 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_email输入框' 元素值为 '('id', 'u')' 可见
+2019-12-15 23:19:06,806 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_email输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:19:06,818 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_email输入框' 元素
+2019-12-15 23:19:06,934 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:19:06,935 - INFO - base_page.py - base_page - 71 - 在 '登录页面_password输入框' 的 '('id', 'p')' 元素处输入 'wang13468610626' 
+2019-12-15 23:19:06,935 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_password输入框' 元素值为 '('id', 'p')' 
+2019-12-15 23:19:06,935 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_password输入框' 元素值为 '('id', 'p')' 可见
+2019-12-15 23:19:06,972 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_password输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:19:06,985 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_password输入框' 元素
+2019-12-15 23:19:07,104 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:19:07,104 - INFO - base_page.py - base_page - 91 - 在 '登录页面_登录按钮' 点击 ' ('id', 'login_button')' 元素
+2019-12-15 23:19:07,104 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 
+2019-12-15 23:19:07,105 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 可见
+2019-12-15 23:19:07,140 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录按钮' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:19:07,156 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录按钮' 元素
+2019-12-15 23:19:07,273 - INFO - base_page.py - base_page - 94 - 点击 '登录页面_登录按钮' 元素成功
+2019-12-15 23:19:07,273 - INFO - base_page.py - base_page - 91 - 在 '首页_写邮件按钮' 点击 ' ('id', 'composebtn')' 元素
+2019-12-15 23:19:07,273 - INFO - base_page.py - base_page - 60 - 查找 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 
+2019-12-15 23:19:07,273 - INFO - base_page.py - base_page - 32 - 等待 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 可见
+2019-12-15 23:19:11,900 - INFO - base_page.py - base_page - 42 - 等待 '首页_写邮件按钮' 元素出现成功，等待时间为 08:00:04s
+2019-12-15 23:19:11,909 - INFO - base_page.py - base_page - 64 - 找到 '首页_写邮件按钮' 元素
+2019-12-15 23:19:11,988 - INFO - base_page.py - base_page - 94 - 点击 '首页_写邮件按钮' 元素成功
+2019-12-15 23:19:11,989 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:19:11,989 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 
+2019-12-15 23:19:11,989 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 可见
+2019-12-15 23:19:12,035 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_主frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:19:12,046 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_主frame' 元素
+2019-12-15 23:19:12,090 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_主frame' frame成功
+2019-12-15 23:19:12,091 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_正文frame' 切换到 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' frame
+2019-12-15 23:19:12,091 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文frame' 元素值为 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' 
+2019-12-15 23:19:12,091 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文frame' 元素值为 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' 可见
+2019-12-15 23:19:12,701 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_正文frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:19:12,712 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_正文frame' 元素
+2019-12-15 23:19:12,742 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_正文frame' frame成功
+2019-12-15 23:19:12,742 - INFO - base_page.py - base_page - 71 - 在 '写邮件页面_正文输入框' 的 '('xpath', "//body[@accesskey='q']/div")' 元素处输入 'woshilaowang' 
+2019-12-15 23:19:12,742 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文输入框' 元素值为 '('xpath', "//body[@accesskey='q']/div")' 
+2019-12-15 23:19:12,743 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文输入框' 元素值为 '('xpath', "//body[@accesskey='q']/div")' 可见
+2019-12-15 23:19:12,778 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_正文输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:19:12,788 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_正文输入框' 元素
+2019-12-15 23:19:12,824 - ERROR - base_page.py - base_page - 76 - 输入文本值失败
+2019-12-15 23:19:13,333 - INFO - base_page.py - base_page - 163 - 页面截图文件保存在 C:\Users\Administrator\PycharmProjects\qq_web__mail\output\screenshot\20191215%H1912写邮件页面_正文输入框.jpg
+2019-12-15 23:19:13,384 - INFO - test_send_mail.py - test_send_mail - 36 - #############################################结束执行登录的用例##############################################
+2019-12-15 23:21:05,872 - INFO - test_send_mail.py - test_send_mail - 26 - #############################################开始执行登录的用例##############################################
+2019-12-15 23:21:15,538 - INFO - base_page.py - base_page - 112 - 在 '登录页面_登录表单frame' 切换到 '('id', 'login_frame')' frame
+2019-12-15 23:21:15,538 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 
+2019-12-15 23:21:15,538 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 可见
+2019-12-15 23:21:15,674 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录表单frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:21:15,687 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录表单frame' 元素
+2019-12-15 23:21:15,716 - INFO - base_page.py - base_page - 116 - 切换 '登录页面_登录表单frame' frame成功
+2019-12-15 23:21:15,716 - INFO - base_page.py - base_page - 71 - 在 '登录页面_email输入框' 的 '('id', 'u')' 元素处输入 '1020487224@qq.com' 
+2019-12-15 23:21:15,717 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_email输入框' 元素值为 '('id', 'u')' 
+2019-12-15 23:21:15,717 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_email输入框' 元素值为 '('id', 'u')' 可见
+2019-12-15 23:21:15,754 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_email输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:21:15,766 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_email输入框' 元素
+2019-12-15 23:21:15,878 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:21:15,879 - INFO - base_page.py - base_page - 71 - 在 '登录页面_password输入框' 的 '('id', 'p')' 元素处输入 'wang13468610626' 
+2019-12-15 23:21:15,879 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_password输入框' 元素值为 '('id', 'p')' 
+2019-12-15 23:21:15,879 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_password输入框' 元素值为 '('id', 'p')' 可见
+2019-12-15 23:21:15,914 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_password输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:21:15,925 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_password输入框' 元素
+2019-12-15 23:21:16,020 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:21:16,020 - INFO - base_page.py - base_page - 91 - 在 '登录页面_登录按钮' 点击 ' ('id', 'login_button')' 元素
+2019-12-15 23:21:16,020 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 
+2019-12-15 23:21:16,021 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 可见
+2019-12-15 23:21:16,056 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录按钮' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:21:16,067 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录按钮' 元素
+2019-12-15 23:21:16,200 - INFO - base_page.py - base_page - 94 - 点击 '登录页面_登录按钮' 元素成功
+2019-12-15 23:21:16,201 - INFO - base_page.py - base_page - 91 - 在 '首页_写邮件按钮' 点击 ' ('id', 'composebtn')' 元素
+2019-12-15 23:21:16,201 - INFO - base_page.py - base_page - 60 - 查找 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 
+2019-12-15 23:21:16,201 - INFO - base_page.py - base_page - 32 - 等待 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 可见
+2019-12-15 23:21:18,471 - INFO - base_page.py - base_page - 42 - 等待 '首页_写邮件按钮' 元素出现成功，等待时间为 08:00:02s
+2019-12-15 23:21:18,481 - INFO - base_page.py - base_page - 64 - 找到 '首页_写邮件按钮' 元素
+2019-12-15 23:21:18,544 - INFO - base_page.py - base_page - 94 - 点击 '首页_写邮件按钮' 元素成功
+2019-12-15 23:21:18,544 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:21:18,545 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 
+2019-12-15 23:21:18,545 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 可见
+2019-12-15 23:21:18,588 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_主frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:21:18,603 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_主frame' 元素
+2019-12-15 23:21:18,792 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_主frame' frame成功
+2019-12-15 23:21:18,792 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_正文frame' 切换到 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' frame
+2019-12-15 23:21:18,793 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文frame' 元素值为 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' 
+2019-12-15 23:21:18,793 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文frame' 元素值为 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' 可见
+2019-12-15 23:21:19,361 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_正文frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:21:19,372 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_正文frame' 元素
+2019-12-15 23:21:19,403 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_正文frame' frame成功
+2019-12-15 23:21:19,403 - INFO - base_page.py - base_page - 71 - 在 '写邮件页面_正文输入框' 的 '('xpath', "//body[@accesskey='q']   ")' 元素处输入 'woshilaowang' 
+2019-12-15 23:21:19,404 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文输入框' 元素值为 '('xpath', "//body[@accesskey='q']   ")' 
+2019-12-15 23:21:19,404 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文输入框' 元素值为 '('xpath', "//body[@accesskey='q']   ")' 可见
+2019-12-15 23:21:19,437 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_正文输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:21:19,447 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_正文输入框' 元素
+2019-12-15 23:21:19,549 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:21:19,549 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:21:19,549 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 
+2019-12-15 23:21:19,549 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 可见
+2019-12-15 23:21:49,926 - ERROR - base_page.py - base_page - 37 - 查找 '写邮件页面_主frame' 元素出现失败
+2019-12-15 23:21:52,240 - INFO - test_send_mail.py - test_send_mail - 36 - #############################################结束执行登录的用例##############################################
+2019-12-15 23:27:16,691 - INFO - test_send_mail.py - test_send_mail - 26 - #############################################开始执行登录的用例##############################################
+2019-12-15 23:28:30,705 - INFO - test_send_mail.py - test_send_mail - 26 - #############################################开始执行登录的用例##############################################
+2019-12-15 23:28:39,887 - INFO - base_page.py - base_page - 112 - 在 '登录页面_登录表单frame' 切换到 '('id', 'login_frame')' frame
+2019-12-15 23:28:39,888 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 
+2019-12-15 23:28:39,888 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 可见
+2019-12-15 23:28:39,937 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录表单frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:28:39,947 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录表单frame' 元素
+2019-12-15 23:28:39,974 - INFO - base_page.py - base_page - 116 - 切换 '登录页面_登录表单frame' frame成功
+2019-12-15 23:28:39,974 - INFO - base_page.py - base_page - 71 - 在 '登录页面_email输入框' 的 '('id', 'u')' 元素处输入 '1020487224@qq.com' 
+2019-12-15 23:28:39,974 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_email输入框' 元素值为 '('id', 'u')' 
+2019-12-15 23:28:39,974 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_email输入框' 元素值为 '('id', 'u')' 可见
+2019-12-15 23:28:40,009 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_email输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:28:40,019 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_email输入框' 元素
+2019-12-15 23:28:40,132 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:28:40,133 - INFO - base_page.py - base_page - 71 - 在 '登录页面_password输入框' 的 '('id', 'p')' 元素处输入 'wang13468610626' 
+2019-12-15 23:28:40,133 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_password输入框' 元素值为 '('id', 'p')' 
+2019-12-15 23:28:40,133 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_password输入框' 元素值为 '('id', 'p')' 可见
+2019-12-15 23:28:40,171 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_password输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:28:40,183 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_password输入框' 元素
+2019-12-15 23:28:40,273 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:28:40,274 - INFO - base_page.py - base_page - 91 - 在 '登录页面_登录按钮' 点击 ' ('id', 'login_button')' 元素
+2019-12-15 23:28:40,274 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 
+2019-12-15 23:28:40,274 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 可见
+2019-12-15 23:28:40,319 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录按钮' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:28:40,330 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录按钮' 元素
+2019-12-15 23:28:40,467 - INFO - base_page.py - base_page - 94 - 点击 '登录页面_登录按钮' 元素成功
+2019-12-15 23:28:40,468 - INFO - base_page.py - base_page - 91 - 在 '首页_写邮件按钮' 点击 ' ('id', 'composebtn')' 元素
+2019-12-15 23:28:40,468 - INFO - base_page.py - base_page - 60 - 查找 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 
+2019-12-15 23:28:40,468 - INFO - base_page.py - base_page - 32 - 等待 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 可见
+2019-12-15 23:29:12,592 - INFO - base_page.py - base_page - 42 - 等待 '首页_写邮件按钮' 元素出现成功，等待时间为 08:00:32s
+2019-12-15 23:29:12,603 - INFO - base_page.py - base_page - 64 - 找到 '首页_写邮件按钮' 元素
+2019-12-15 23:29:12,657 - INFO - base_page.py - base_page - 94 - 点击 '首页_写邮件按钮' 元素成功
+2019-12-15 23:29:12,657 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:29:12,657 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 
+2019-12-15 23:29:12,657 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 可见
+2019-12-15 23:29:12,697 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_主frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:29:12,710 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_主frame' 元素
+2019-12-15 23:29:12,835 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_主frame' frame成功
+2019-12-15 23:29:12,835 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_正文frame' 切换到 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' frame
+2019-12-15 23:29:12,836 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文frame' 元素值为 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' 
+2019-12-15 23:29:12,836 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文frame' 元素值为 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' 可见
+2019-12-15 23:29:13,502 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_正文frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:29:13,516 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_正文frame' 元素
+2019-12-15 23:29:13,545 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_正文frame' frame成功
+2019-12-15 23:29:13,545 - INFO - base_page.py - base_page - 71 - 在 '写邮件页面_正文输入框' 的 '('xpath', "//body[@accesskey='q']")' 元素处输入 'woshilaowang' 
+2019-12-15 23:29:13,546 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文输入框' 元素值为 '('xpath', "//body[@accesskey='q']")' 
+2019-12-15 23:29:13,546 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文输入框' 元素值为 '('xpath', "//body[@accesskey='q']")' 可见
+2019-12-15 23:29:13,578 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_正文输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:29:13,589 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_正文输入框' 元素
+2019-12-15 23:29:13,690 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:29:13,690 - INFO - base_page.py - base_page - 123 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:29:13,691 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 可见
+2019-12-15 23:29:43,720 - ERROR - base_page.py - base_page - 37 - 查找 '写邮件页面_主frame' 元素出现失败
+2019-12-15 23:29:46,035 - INFO - test_send_mail.py - test_send_mail - 36 - #############################################结束执行登录的用例##############################################
+2019-12-15 23:35:46,083 - INFO - test_send_mail.py - test_send_mail - 26 - #############################################开始执行登录的用例##############################################
+2019-12-15 23:36:08,727 - INFO - base_page.py - base_page - 112 - 在 '登录页面_登录表单frame' 切换到 '('id', 'login_frame')' frame
+2019-12-15 23:36:08,728 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 
+2019-12-15 23:36:08,728 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 可见
+2019-12-15 23:36:08,777 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录表单frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:36:08,786 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录表单frame' 元素
+2019-12-15 23:36:08,813 - INFO - base_page.py - base_page - 116 - 切换 '登录页面_登录表单frame' frame成功
+2019-12-15 23:36:08,814 - INFO - base_page.py - base_page - 71 - 在 '登录页面_email输入框' 的 '('id', 'u')' 元素处输入 '1020487224@qq.com' 
+2019-12-15 23:36:08,814 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_email输入框' 元素值为 '('id', 'u')' 
+2019-12-15 23:36:08,814 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_email输入框' 元素值为 '('id', 'u')' 可见
+2019-12-15 23:36:08,850 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_email输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:36:08,862 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_email输入框' 元素
+2019-12-15 23:36:08,981 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:36:08,982 - INFO - base_page.py - base_page - 71 - 在 '登录页面_password输入框' 的 '('id', 'p')' 元素处输入 'wang13468610626' 
+2019-12-15 23:36:08,982 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_password输入框' 元素值为 '('id', 'p')' 
+2019-12-15 23:36:08,982 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_password输入框' 元素值为 '('id', 'p')' 可见
+2019-12-15 23:36:09,019 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_password输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:36:09,029 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_password输入框' 元素
+2019-12-15 23:36:09,119 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:36:09,119 - INFO - base_page.py - base_page - 91 - 在 '登录页面_登录按钮' 点击 ' ('id', 'login_button')' 元素
+2019-12-15 23:36:09,119 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 
+2019-12-15 23:36:09,120 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 可见
+2019-12-15 23:36:09,156 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录按钮' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:36:09,167 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录按钮' 元素
+2019-12-15 23:36:09,299 - INFO - base_page.py - base_page - 94 - 点击 '登录页面_登录按钮' 元素成功
+2019-12-15 23:36:09,299 - INFO - base_page.py - base_page - 91 - 在 '首页_写邮件按钮' 点击 ' ('id', 'composebtn')' 元素
+2019-12-15 23:36:09,299 - INFO - base_page.py - base_page - 60 - 查找 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 
+2019-12-15 23:36:09,299 - INFO - base_page.py - base_page - 32 - 等待 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 可见
+2019-12-15 23:36:40,314 - INFO - base_page.py - base_page - 42 - 等待 '首页_写邮件按钮' 元素出现成功，等待时间为 08:00:31s
+2019-12-15 23:36:40,325 - INFO - base_page.py - base_page - 64 - 找到 '首页_写邮件按钮' 元素
+2019-12-15 23:36:40,386 - INFO - base_page.py - base_page - 94 - 点击 '首页_写邮件按钮' 元素成功
+2019-12-15 23:36:40,386 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:36:40,386 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 
+2019-12-15 23:36:40,386 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 可见
+2019-12-15 23:36:40,432 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_主frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:36:40,451 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_主frame' 元素
+2019-12-15 23:36:40,596 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_主frame' frame成功
+2019-12-15 23:36:40,596 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_正文frame' 切换到 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' frame
+2019-12-15 23:36:40,596 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文frame' 元素值为 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' 
+2019-12-15 23:36:40,596 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文frame' 元素值为 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' 可见
+2019-12-15 23:36:41,212 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_正文frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:36:41,223 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_正文frame' 元素
+2019-12-15 23:36:41,311 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_正文frame' frame成功
+2019-12-15 23:36:41,312 - INFO - base_page.py - base_page - 71 - 在 '写邮件页面_正文输入框' 的 '('xpath', "//body[@accesskey='q']")' 元素处输入 'woshilaowang' 
+2019-12-15 23:36:41,312 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文输入框' 元素值为 '('xpath', "//body[@accesskey='q']")' 
+2019-12-15 23:36:41,312 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文输入框' 元素值为 '('xpath', "//body[@accesskey='q']")' 可见
+2019-12-15 23:36:41,348 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_正文输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:36:41,358 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_正文输入框' 元素
+2019-12-15 23:36:41,470 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:36:41,470 - INFO - base_page.py - base_page - 133 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:36:41,470 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 可见
+2019-12-15 23:36:49,257 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_主frame' 元素出现成功，等待时间为 08:00:07s
+2019-12-15 23:36:49,260 - INFO - base_page.py - base_page - 137 - 切换到原始的 '写邮件页面_主frame' frame成功
+2019-12-15 23:36:49,260 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:36:49,261 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 
+2019-12-15 23:36:49,261 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 可见
+2019-12-15 23:36:49,283 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_主frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:36:49,294 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_主frame' 元素
+2019-12-15 23:36:49,311 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_主frame' frame成功
+2019-12-15 23:36:49,311 - INFO - base_page.py - base_page - 71 - 在 '写邮件页面_收件人文本框' 的 '('id', 'toAreaCtrl')' 元素处输入 '18710797195@qq.com' 
+2019-12-15 23:36:49,311 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_收件人文本框' 元素值为 '('id', 'toAreaCtrl')' 
+2019-12-15 23:36:49,312 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_收件人文本框' 元素值为 '('id', 'toAreaCtrl')' 可见
+2019-12-15 23:37:05,531 - INFO - test_send_mail.py - test_send_mail - 26 - #############################################开始执行登录的用例##############################################
+2019-12-15 23:37:14,929 - INFO - base_page.py - base_page - 112 - 在 '登录页面_登录表单frame' 切换到 '('id', 'login_frame')' frame
+2019-12-15 23:37:14,930 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 
+2019-12-15 23:37:14,930 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 可见
+2019-12-15 23:37:14,979 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录表单frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:37:14,989 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录表单frame' 元素
+2019-12-15 23:37:15,015 - INFO - base_page.py - base_page - 116 - 切换 '登录页面_登录表单frame' frame成功
+2019-12-15 23:37:15,015 - INFO - base_page.py - base_page - 71 - 在 '登录页面_email输入框' 的 '('id', 'u')' 元素处输入 '1020487224@qq.com' 
+2019-12-15 23:37:15,016 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_email输入框' 元素值为 '('id', 'u')' 
+2019-12-15 23:37:15,016 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_email输入框' 元素值为 '('id', 'u')' 可见
+2019-12-15 23:37:15,050 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_email输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:37:15,060 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_email输入框' 元素
+2019-12-15 23:37:15,177 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:37:15,177 - INFO - base_page.py - base_page - 71 - 在 '登录页面_password输入框' 的 '('id', 'p')' 元素处输入 'wang13468610626' 
+2019-12-15 23:37:15,177 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_password输入框' 元素值为 '('id', 'p')' 
+2019-12-15 23:37:15,177 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_password输入框' 元素值为 '('id', 'p')' 可见
+2019-12-15 23:37:15,212 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_password输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:37:15,222 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_password输入框' 元素
+2019-12-15 23:37:15,311 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:37:15,311 - INFO - base_page.py - base_page - 91 - 在 '登录页面_登录按钮' 点击 ' ('id', 'login_button')' 元素
+2019-12-15 23:37:15,312 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 
+2019-12-15 23:37:15,312 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 可见
+2019-12-15 23:37:15,347 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录按钮' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:37:15,357 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录按钮' 元素
+2019-12-15 23:37:15,500 - INFO - base_page.py - base_page - 94 - 点击 '登录页面_登录按钮' 元素成功
+2019-12-15 23:37:15,501 - INFO - base_page.py - base_page - 91 - 在 '首页_写邮件按钮' 点击 ' ('id', 'composebtn')' 元素
+2019-12-15 23:37:15,501 - INFO - base_page.py - base_page - 60 - 查找 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 
+2019-12-15 23:37:15,501 - INFO - base_page.py - base_page - 32 - 等待 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 可见
+2019-12-15 23:37:17,762 - INFO - base_page.py - base_page - 42 - 等待 '首页_写邮件按钮' 元素出现成功，等待时间为 08:00:02s
+2019-12-15 23:37:17,772 - INFO - base_page.py - base_page - 64 - 找到 '首页_写邮件按钮' 元素
+2019-12-15 23:37:17,842 - INFO - base_page.py - base_page - 94 - 点击 '首页_写邮件按钮' 元素成功
+2019-12-15 23:37:17,843 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:37:17,843 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 
+2019-12-15 23:37:17,843 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 可见
+2019-12-15 23:37:17,889 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_主frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:37:17,902 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_主frame' 元素
+2019-12-15 23:37:17,930 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_主frame' frame成功
+2019-12-15 23:37:17,930 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_正文frame' 切换到 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' frame
+2019-12-15 23:37:17,930 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文frame' 元素值为 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' 
+2019-12-15 23:37:17,931 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文frame' 元素值为 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' 可见
+2019-12-15 23:37:18,683 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_正文frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:37:18,695 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_正文frame' 元素
+2019-12-15 23:37:18,725 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_正文frame' frame成功
+2019-12-15 23:37:18,725 - INFO - base_page.py - base_page - 71 - 在 '写邮件页面_正文输入框' 的 '('xpath', "//body[@accesskey='q']")' 元素处输入 'woshilaowang' 
+2019-12-15 23:37:18,725 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文输入框' 元素值为 '('xpath', "//body[@accesskey='q']")' 
+2019-12-15 23:37:18,725 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文输入框' 元素值为 '('xpath', "//body[@accesskey='q']")' 可见
+2019-12-15 23:37:18,759 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_正文输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:37:18,769 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_正文输入框' 元素
+2019-12-15 23:37:18,870 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:37:18,870 - INFO - base_page.py - base_page - 133 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:37:18,870 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 可见
+2019-12-15 23:37:49,235 - ERROR - base_page.py - base_page - 37 - 查找 '写邮件页面_主frame' 元素出现失败
+2019-12-15 23:37:51,552 - INFO - test_send_mail.py - test_send_mail - 36 - #############################################结束执行登录的用例##############################################
+2019-12-15 23:40:49,533 - INFO - test_send_mail.py - test_send_mail - 26 - #############################################开始执行登录的用例##############################################
+2019-12-15 23:40:58,826 - INFO - base_page.py - base_page - 112 - 在 '登录页面_登录表单frame' 切换到 '('id', 'login_frame')' frame
+2019-12-15 23:40:58,827 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 
+2019-12-15 23:40:58,827 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 可见
+2019-12-15 23:40:58,878 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录表单frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:40:58,894 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录表单frame' 元素
+2019-12-15 23:40:58,927 - INFO - base_page.py - base_page - 116 - 切换 '登录页面_登录表单frame' frame成功
+2019-12-15 23:40:58,928 - INFO - base_page.py - base_page - 71 - 在 '登录页面_email输入框' 的 '('id', 'u')' 元素处输入 '1020487224@qq.com' 
+2019-12-15 23:40:58,928 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_email输入框' 元素值为 '('id', 'u')' 
+2019-12-15 23:40:58,928 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_email输入框' 元素值为 '('id', 'u')' 可见
+2019-12-15 23:40:58,962 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_email输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:40:58,972 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_email输入框' 元素
+2019-12-15 23:40:59,083 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:40:59,083 - INFO - base_page.py - base_page - 71 - 在 '登录页面_password输入框' 的 '('id', 'p')' 元素处输入 'wang13468610626' 
+2019-12-15 23:40:59,083 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_password输入框' 元素值为 '('id', 'p')' 
+2019-12-15 23:40:59,083 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_password输入框' 元素值为 '('id', 'p')' 可见
+2019-12-15 23:40:59,118 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_password输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:40:59,129 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_password输入框' 元素
+2019-12-15 23:40:59,221 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:40:59,222 - INFO - base_page.py - base_page - 91 - 在 '登录页面_登录按钮' 点击 ' ('id', 'login_button')' 元素
+2019-12-15 23:40:59,222 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 
+2019-12-15 23:40:59,222 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 可见
+2019-12-15 23:40:59,256 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录按钮' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:40:59,268 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录按钮' 元素
+2019-12-15 23:40:59,412 - INFO - base_page.py - base_page - 94 - 点击 '登录页面_登录按钮' 元素成功
+2019-12-15 23:40:59,413 - INFO - base_page.py - base_page - 91 - 在 '首页_写邮件按钮' 点击 ' ('id', 'composebtn')' 元素
+2019-12-15 23:40:59,413 - INFO - base_page.py - base_page - 60 - 查找 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 
+2019-12-15 23:40:59,413 - INFO - base_page.py - base_page - 32 - 等待 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 可见
+2019-12-15 23:41:01,835 - INFO - base_page.py - base_page - 42 - 等待 '首页_写邮件按钮' 元素出现成功，等待时间为 08:00:02s
+2019-12-15 23:41:01,848 - INFO - base_page.py - base_page - 64 - 找到 '首页_写邮件按钮' 元素
+2019-12-15 23:41:01,920 - INFO - base_page.py - base_page - 94 - 点击 '首页_写邮件按钮' 元素成功
+2019-12-15 23:41:01,920 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:41:01,920 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 
+2019-12-15 23:41:01,920 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 可见
+2019-12-15 23:41:01,963 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_主frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:41:01,979 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_主frame' 元素
+2019-12-15 23:41:02,114 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_主frame' frame成功
+2019-12-15 23:41:02,115 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_正文frame' 切换到 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' frame
+2019-12-15 23:41:02,115 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文frame' 元素值为 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' 
+2019-12-15 23:41:02,115 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文frame' 元素值为 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' 可见
+2019-12-15 23:41:02,752 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_正文frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:41:02,764 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_正文frame' 元素
+2019-12-15 23:41:02,794 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_正文frame' frame成功
+2019-12-15 23:41:02,795 - INFO - base_page.py - base_page - 71 - 在 '写邮件页面_正文输入框' 的 '('xpath', "//body[@accesskey='q']")' 元素处输入 'woshilaowang' 
+2019-12-15 23:41:02,795 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文输入框' 元素值为 '('xpath', "//body[@accesskey='q']")' 
+2019-12-15 23:41:02,795 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文输入框' 元素值为 '('xpath', "//body[@accesskey='q']")' 可见
+2019-12-15 23:41:02,829 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_正文输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:41:02,840 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_正文输入框' 元素
+2019-12-15 23:41:02,942 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:41:05,942 - INFO - base_page.py - base_page - 133 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:41:05,947 - INFO - base_page.py - base_page - 137 - 切换到原始的 '写邮件页面_主frame' frame成功
+2019-12-15 23:41:05,947 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:41:05,947 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 
+2019-12-15 23:41:05,947 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 可见
+2019-12-15 23:41:05,979 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_主frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:41:05,993 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_主frame' 元素
+2019-12-15 23:41:06,017 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_主frame' frame成功
+2019-12-15 23:41:06,018 - INFO - base_page.py - base_page - 71 - 在 '写邮件页面_收件人文本框' 的 '('id', 'toAreaCtrl')' 元素处输入 '18710797195@qq.com' 
+2019-12-15 23:41:06,018 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_收件人文本框' 元素值为 '('id', 'toAreaCtrl')' 
+2019-12-15 23:41:06,018 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_收件人文本框' 元素值为 '('id', 'toAreaCtrl')' 可见
+2019-12-15 23:41:06,063 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_收件人文本框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:41:06,072 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_收件人文本框' 元素
+2019-12-15 23:41:06,110 - ERROR - base_page.py - base_page - 76 - 输入文本值失败
+2019-12-15 23:41:06,614 - INFO - base_page.py - base_page - 184 - 页面截图文件保存在 C:\Users\Administrator\PycharmProjects\qq_web__mail\output\screenshot\20191215%H4106写邮件页面_收件人文本框.jpg
+2019-12-15 23:41:06,683 - INFO - test_send_mail.py - test_send_mail - 36 - #############################################结束执行登录的用例##############################################
+2019-12-15 23:47:26,805 - INFO - test_send_mail.py - test_send_mail - 26 - #############################################开始执行登录的用例##############################################
+2019-12-15 23:47:35,982 - INFO - base_page.py - base_page - 112 - 在 '登录页面_登录表单frame' 切换到 '('id', 'login_frame')' frame
+2019-12-15 23:47:35,983 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 
+2019-12-15 23:47:35,983 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录表单frame' 元素值为 '('id', 'login_frame')' 可见
+2019-12-15 23:47:36,022 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录表单frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:47:36,032 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录表单frame' 元素
+2019-12-15 23:47:36,061 - INFO - base_page.py - base_page - 116 - 切换 '登录页面_登录表单frame' frame成功
+2019-12-15 23:47:36,061 - INFO - base_page.py - base_page - 71 - 在 '登录页面_email输入框' 的 '('id', 'u')' 元素处输入 '1020487224@qq.com' 
+2019-12-15 23:47:36,061 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_email输入框' 元素值为 '('id', 'u')' 
+2019-12-15 23:47:36,061 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_email输入框' 元素值为 '('id', 'u')' 可见
+2019-12-15 23:47:36,098 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_email输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:47:36,109 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_email输入框' 元素
+2019-12-15 23:47:36,231 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:47:36,231 - INFO - base_page.py - base_page - 71 - 在 '登录页面_password输入框' 的 '('id', 'p')' 元素处输入 'wang13468610626' 
+2019-12-15 23:47:36,232 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_password输入框' 元素值为 '('id', 'p')' 
+2019-12-15 23:47:36,232 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_password输入框' 元素值为 '('id', 'p')' 可见
+2019-12-15 23:47:36,269 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_password输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:47:36,280 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_password输入框' 元素
+2019-12-15 23:47:36,389 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:47:36,389 - INFO - base_page.py - base_page - 91 - 在 '登录页面_登录按钮' 点击 ' ('id', 'login_button')' 元素
+2019-12-15 23:47:36,390 - INFO - base_page.py - base_page - 60 - 查找 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 
+2019-12-15 23:47:36,390 - INFO - base_page.py - base_page - 32 - 等待 '登录页面_登录按钮' 元素值为 '('id', 'login_button')' 可见
+2019-12-15 23:47:36,430 - INFO - base_page.py - base_page - 42 - 等待 '登录页面_登录按钮' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:47:36,442 - INFO - base_page.py - base_page - 64 - 找到 '登录页面_登录按钮' 元素
+2019-12-15 23:47:36,581 - INFO - base_page.py - base_page - 94 - 点击 '登录页面_登录按钮' 元素成功
+2019-12-15 23:47:36,582 - INFO - base_page.py - base_page - 91 - 在 '首页_写邮件按钮' 点击 ' ('id', 'composebtn')' 元素
+2019-12-15 23:47:36,582 - INFO - base_page.py - base_page - 60 - 查找 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 
+2019-12-15 23:47:36,582 - INFO - base_page.py - base_page - 32 - 等待 '首页_写邮件按钮' 元素值为 '('id', 'composebtn')' 可见
+2019-12-15 23:47:38,893 - INFO - base_page.py - base_page - 42 - 等待 '首页_写邮件按钮' 元素出现成功，等待时间为 08:00:02s
+2019-12-15 23:47:38,906 - INFO - base_page.py - base_page - 64 - 找到 '首页_写邮件按钮' 元素
+2019-12-15 23:47:38,969 - INFO - base_page.py - base_page - 94 - 点击 '首页_写邮件按钮' 元素成功
+2019-12-15 23:47:38,970 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:47:38,970 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 
+2019-12-15 23:47:38,970 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 可见
+2019-12-15 23:47:39,016 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_主frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:47:39,030 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_主frame' 元素
+2019-12-15 23:47:39,063 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_主frame' frame成功
+2019-12-15 23:47:39,063 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_正文frame' 切换到 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' frame
+2019-12-15 23:47:39,064 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文frame' 元素值为 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' 
+2019-12-15 23:47:39,064 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文frame' 元素值为 '('xpath', "//div[@id='QMEditorArea']//iframe[@class='qmEditorIfrmEditArea']")' 可见
+2019-12-15 23:47:39,813 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_正文frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:47:39,823 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_正文frame' 元素
+2019-12-15 23:47:39,859 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_正文frame' frame成功
+2019-12-15 23:47:39,860 - INFO - base_page.py - base_page - 71 - 在 '写邮件页面_正文输入框' 的 '('xpath', "//body[@accesskey='q']")' 元素处输入 'woshilaowang' 
+2019-12-15 23:47:39,860 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_正文输入框' 元素值为 '('xpath', "//body[@accesskey='q']")' 
+2019-12-15 23:47:39,860 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_正文输入框' 元素值为 '('xpath', "//body[@accesskey='q']")' 可见
+2019-12-15 23:47:39,893 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_正文输入框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:47:39,903 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_正文输入框' 元素
+2019-12-15 23:47:40,003 - INFO - base_page.py - base_page - 74 - 成功输入文本值
+2019-12-15 23:47:43,003 - INFO - base_page.py - base_page - 133 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:47:43,009 - INFO - base_page.py - base_page - 137 - 切换到原始的 '写邮件页面_主frame' frame成功
+2019-12-15 23:47:43,009 - INFO - base_page.py - base_page - 112 - 在 '写邮件页面_主frame' 切换到 '('xpath', "//*[@id='mainFrame']")' frame
+2019-12-15 23:47:43,009 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 
+2019-12-15 23:47:43,010 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_主frame' 元素值为 '('xpath', "//*[@id='mainFrame']")' 可见
+2019-12-15 23:47:43,039 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_主frame' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:47:43,054 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_主frame' 元素
+2019-12-15 23:47:43,080 - INFO - base_page.py - base_page - 116 - 切换 '写邮件页面_主frame' frame成功
+2019-12-15 23:47:43,081 - INFO - base_page.py - base_page - 71 - 在 '写邮件页面_收件人文本框' 的 '('xpath', "//div[@id='toAreaCtrl']//div[@class='addr_text']")' 元素处输入 '18710797195@qq.com' 
+2019-12-15 23:47:43,081 - INFO - base_page.py - base_page - 60 - 查找 '写邮件页面_收件人文本框' 元素值为 '('xpath', "//div[@id='toAreaCtrl']//div[@class='addr_text']")' 
+2019-12-15 23:47:43,081 - INFO - base_page.py - base_page - 32 - 等待 '写邮件页面_收件人文本框' 元素值为 '('xpath', "//div[@id='toAreaCtrl']//div[@class='addr_text']")' 可见
+2019-12-15 23:47:43,115 - INFO - base_page.py - base_page - 42 - 等待 '写邮件页面_收件人文本框' 元素出现成功，等待时间为 08:00:00s
+2019-12-15 23:47:43,125 - INFO - base_page.py - base_page - 64 - 找到 '写邮件页面_收件人文本框' 元素
+2019-12-15 23:47:43,163 - ERROR - base_page.py - base_page - 76 - 输入文本值失败
+2019-12-15 23:47:43,677 - INFO - base_page.py - base_page - 184 - 页面截图文件保存在 C:\Users\Administrator\PycharmProjects\qq_web__mail\output\screenshot\20191215%H4743写邮件页面_收件人文本框.jpg
+2019-12-15 23:47:43,723 - INFO - test_send_mail.py - test_send_mail - 36 - #############################################结束执行登录的用例##############################################

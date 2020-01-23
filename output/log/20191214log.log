@@ -1,0 +1,8 @@
+2019-12-14 20:40:38,853 - INFO - handle_log.py - handle_log - 55 - 我是info信息
+2019-12-14 20:40:38,853 - ERROR - handle_log.py - handle_log - 56 - 我是error信息
+2019-12-14 20:40:53,841 - INFO - handle_log.py - handle_log - 55 - 我是info信息
+2019-12-14 20:40:53,842 - ERROR - handle_log.py - handle_log - 56 - 我是error信息
+2019-12-14 20:42:27,673 - INFO - handle_log.py - handle_log - 55 - 我是info信息
+2019-12-14 20:42:27,674 - ERROR - handle_log.py - handle_log - 56 - 我是error信息
+2019-12-14 21:50:13,827 - INFO - handle_log.py - handle_log - 55 - 我是info信息
+2019-12-14 21:50:13,827 - ERROR - handle_log.py - handle_log - 56 - 我是error信息
